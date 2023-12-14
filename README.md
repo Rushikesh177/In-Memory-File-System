@@ -63,12 +63,16 @@ The primary data structure used in this implementation is a Python dictionary (`
     ```
 5. Enter commands at the prompt. For example:
    
-       ```bash
-    Enter command (type 'exit' to end): mkdir my_folder
-    Enter command (type 'exit' to end): ls
-    Enter command (type 'exit' to end): echo "Hello, World!" my_file.txt
-    Enter command (type 'exit' to end): cat my_file.txt
+      ```bash
+   Enter command (type 'exit' to end): mkdir folder_name
     ```
+   
+     ```bash
+   Enter command (type 'exit' to end): ls
+    Enter command (type 'exit' to end): echo "Hello, World!" my_file.txt
+
+    ```
+      
 
   
    
