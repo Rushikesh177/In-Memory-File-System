@@ -69,7 +69,10 @@ The primary data structure used in this implementation is a Python dictionary (`
    
      ```bash
    Enter command (type 'exit' to end): ls
-    Enter command (type 'exit' to end): echo "Hello, World!" my_file.txt
+     Enter command (type 'exit' to end): touch file_name.txt
+    Enter command (type 'exit' to end): echo "Hello, World!" file_name.txt
+     Enter command (type 'exit' to end): cat file_name.txt
+
 
     ```
       
