@@ -76,14 +76,24 @@ The primary data structure used in this implementation is a Python dictionary (`
 
 
     ```
-move command :
+6. move command :
      ```bash
        mv folder2/file.txt folder1/
     ```  
 
-remove command
+7. remove command
+    ```bash
+      rm file.txt
+    ```
 
-  
+8. Save state and Load state : (//state saved to json file and stored in the project repository)
+    ```bash
+      save_state 'any_state_name.json'
+      load_state 'that_state_name.json'
+  ```
+
+
+
    
    
 
