@@ -16,7 +16,6 @@ The primary data structure used in this implementation is a Python dictionary (`
 
 - **State Saving/Loading:** The project supports saving and loading the file system state to/from a JSON file. This allows users to persist the state across different sessions.
 
-- **Dynamic Command Execution:** The `getattr` function is used to dynamically execute commands based on user input, allowing for extensibility.
 
 ## Setup
 
@@ -30,3 +29,9 @@ The primary data structure used in this implementation is a Python dictionary (`
 
    ```bash
    git clone https://github.com/[Your GitHub Username]/in-memory-file-system.git
+    ```
+   ```bash
+   git 
+    ```
+   
+
