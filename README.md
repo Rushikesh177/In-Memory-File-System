@@ -28,10 +28,40 @@ The primary data structure used in this implementation is a Python dictionary (`
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/[Your GitHub Username]/in-memory-file-system.git
+   git clone https://github.com/Rushikesh177/In-Memory-File-System.git
     ```
+   Change into the project directory:
    ```bash
+   cd in-memory-file-system
+    ```
+
+    ```bash
    git 
     ```
+
+     ```bash
+   git 
+    ```
+
+      ```bash
+   git 
+    ```
+
+       ```bash
+   git 
+    ```
+
+     ```bash
+   git 
+    ```
+
+     ```bash
+   git 
+    ```
+
+      ```bash
+   git 
+    ```
+   
    
 
