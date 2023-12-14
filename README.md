@@ -54,33 +54,23 @@ The primary data structure used in this implementation is a Python dictionary (`
     ```
 4. Alternatively, you can use Docker to run the project. A Dockerfile is provided for this purpose. (you need to install Docker first from their official website.
      ```bash
-   docker build -t any-name-of yours-for-image .
+   docker build -t any-name-of-yours-for-image .
 
     ```
 
       ```bash
-   winpty docker run -it same-name-of yours-for-image
+   winpty docker run -it same-name-of-yours-for-image
     ```
-Enter commands at the prompt. For example:
+5. Enter commands at the prompt. For example:
+   
        ```bash
     Enter command (type 'exit' to end): mkdir my_folder
-  Enter command (type 'exit' to end): ls
-  Enter command (type 'exit' to end): echo "Hello, World!" my_file.txt
-  Enter command (type 'exit' to end): cat my_file.txt
-
+    Enter command (type 'exit' to end): ls
+    Enter command (type 'exit' to end): echo "Hello, World!" my_file.txt
+    Enter command (type 'exit' to end): cat my_file.txt
     ```
 
-     ```bash
-   git 
-    ```
-
-     ```bash
-   git 
-    ```
-
-      ```bash
-   git 
-    ```
+  
    
    
 
